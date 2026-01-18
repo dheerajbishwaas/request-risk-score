@@ -6,8 +6,8 @@
     "test": "mocha"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Dheeraj Bishwas",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "mocha": "^11.7.5"

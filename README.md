@@ -85,4 +85,4 @@ const result = analyzeRequest(req, options);
 *   **Tor**: Tor exit node detection is disabled by default to avoid stale bundled lists.
 
 ## License
-ISC
+MIT
