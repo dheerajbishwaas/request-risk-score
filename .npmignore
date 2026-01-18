@@ -1,0 +1,19 @@
+# Tests
+test/
+
+# Demo and Examples
+demo.js
+
+# Artifacts and Docs
+implementation_plan.md
+task.md
+walkthrough.md
+
+# Configs
+.gitignore
+.eslintrc.js
+.prettierrc
+
+# OS
+.DS_Store
+Thumbs.db
