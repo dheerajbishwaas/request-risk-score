@@ -5,7 +5,16 @@
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [],
+  "keywords": [ 
+    "security",
+    "bot-detection",
+    "http",
+    "request",
+    "risk-score",
+    "traffic-analysis",
+    "node",
+    "express",
+    "api-security" ],
   "author": "Dheeraj Bishwas",
   "license": "MIT",
   "description": "",
